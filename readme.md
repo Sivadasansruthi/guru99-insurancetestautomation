@@ -1,0 +1,1 @@
+BASE URL - http://demo.guru99.com/insurance/v1/index.php
